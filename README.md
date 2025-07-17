@@ -25,7 +25,18 @@ This Project is a complete Excel-based data analysis of a simulated Blinkit (gro
 3) Revenue by Store Size and City Tier
 4) Average Product Weight by Category
 
-
+-- Data Cleaning (sheet- Original_data_transformation_in
+1) Product_Weight_grams_Check : IF(B2="", $P$3,B2)
+   Converting null value  into Average 
+2) Health_Tag_Check
+    Converting this into Unknown 
+3) Product_Visibility_ShelfShare_Check
+   Converting null value into Average
+4) Store_Opening_Year_Check
+   Converting null value into Mode value
+5) Store_Size_sqFT
+   Converting null value into Mode value
+6) 
 ### Dashboard Example (sheet- Chart_1, Chart_2)
 Bar Chart : Top 10 Categories by Revenue
 Pie Chart : 
