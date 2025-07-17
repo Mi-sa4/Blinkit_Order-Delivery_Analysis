@@ -35,8 +35,7 @@ This Project is a complete Excel-based data analysis of a simulated Blinkit (gro
 4) Store_Opening_Year_Check
    Converting null value into Mode value
 5) Store_Size_sqFT
-   Converting null value into Mode value
-6) 
+   Converting null value into Mode value   6) Cleaning Hr
 ### Dashboard Example (sheet- Chart_1, Chart_2)
 Bar Chart : Top 10 Categories by Revenue
 Pie Chart : 
