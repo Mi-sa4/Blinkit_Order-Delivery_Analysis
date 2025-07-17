@@ -1,6 +1,6 @@
 ### Blinkit Sales & Store Analysis (Excel-Based Project)
 
-This Project is a complete Excel-based data analysis of a simulated Blinkit (grocery delivery) dataset. The goal is to extract insights on product sales ,store performance, and key business metrics using Excel tools such as Pivot Tables, Charts and Functions. It demonstrate skills in data cleaning, transformation, and dashboard creation - ideal for a data analyst role.
+This Project is a complete Excel -based data analysis of a simulated Blinkit (grocery delivery) dataset. The goal is to extract insights on product sales ,store performance, and key business metrics using Excel tools such as Pivot Tables, Charts and Functions. It demonstrate skills in data cleaning, transformation, and dashboard creation - ideal for a data analyst role.
 
 ### Objective
 -- To explore and visualize data of Blinkit delivery application
